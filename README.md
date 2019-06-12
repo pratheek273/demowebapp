@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/DEV3L/mvn-hello-world-web-app.png)](https://travis-ci.org/DEV3L/mvn-hello-world-web-app)
 
 # mvn-hello-world-web-app
-This is for POLL SCM Testing demo for the automation
+This is for POLL SCM Testing demo for the automation.integration
 Java Hello World web application created using maven-archetype-webapp
 
 ## Blog Post Reference
